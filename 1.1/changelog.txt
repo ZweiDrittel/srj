@@ -1,0 +1,10 @@
+------------------------------------------------
+
+Veränderung zu Version 1.0
+
+------------------------------------------------
+
+Ausgabe der Ergebnisse über LaTEX in pdf-Format. Tolle Sache
+
+
+Ra 21.06.2016

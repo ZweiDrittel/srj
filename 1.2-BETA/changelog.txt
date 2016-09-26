@@ -1,0 +1,20 @@
+------------------------------------------------
+
+Veränderung zu Version 1.1
+
+------------------------------------------------
+
+++ Auswahlverfahren von SRJ auf Nacht- und Schwachwindsituationen ausgeweitet
+
+++ Parameter um mittlere Windrose von Nacht-/Schwachwinden darzustellen
+    -> long int nightcalms_mean[12]
+
+++ Neuer Parameter eingeführt, um gewichtete Rangliste zu erstellen
+    -> double weighted_result[nr_of_years]
+
+-- Latex-Ausgabe muss noch angepasst werden
+
+------------------------------------------------
+
+
+08.07.2016, Ra

@@ -1,0 +1,20 @@
+Programm erstellt eine .txt Datei, die die Abweichung von Windrichtung und Windgeschwindigkeit der gewünschten
+Einzeljahre zu deren Mittel ausgibt (Abweichung wird mittels Chi-Quadrat-Test ermittelt). 
+Die Ausgabe erfolgt normiert auf 100, sowie sortiert nach der Abweichung der Windrichtung (kleinste zuoberst).
+Zusätzlich wird die mittlere Windgeschwindigkeit und die Datenverfügbarkeit der Jahre ausgegeben.
+
+Benötigt wird dazu eine Input-Datei, in welcher die angegebenen Parameter zu modifizieren sind.
+
+WICHTIG! Die Input-Datei "input_srj.txt" MUSS in dem Ordner "S:\Datenban\Wetter\Wetter_neu\Programme\srj\" bleiben!
+AUCH WICHTIG! Der Pfad der anzugebenden Input-/Output-Datei muss in einem Verzeichnis liegen, dessen Pfad keine Leerzeichen enthält.
+Im Zweifelsfall kurzzeitig Kopie in anderem Ordner erstellen.
+
+Vorgehen:
+1) Stündliche Messdaten einer Station für Wind vom DWD herunterladen von:
+	"ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate/hourly/"
+   und abspeichern.
+2) Die Parameter der "input_srj.txt" entsprechend den Wünschen anpassen.
+3) Programm durch Klick auf "srj_vX-X.exe" startet das Programm und legt die Output-Datei im angegebenen Ordner ab.
+
+
+Ra, 26.02.2016

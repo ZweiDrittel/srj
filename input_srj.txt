@@ -1,0 +1,9 @@
+Station:       	13693 Guetersloh
+Koordinaten:   	51.9258 8.3111
+Stationshöhe:	70
+Messhöhe:	10.0
+LaTEX-Ausgabe?	ja
+Begin: 		01 01 2009
+Ende:		31 12 2015
+Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Gütersloh\Rohdaten\produkt_wind_Terminwerte_20080611_20151231_13693.txt
+Output-Pfad:	S:\Datenban\Wetter\SRJ\Gütersloh\

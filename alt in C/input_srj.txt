@@ -1,0 +1,4 @@
+Zeitraum:         01 01 2005 bis 31 12 2014
+input_wind        S:\User\Ra\Programme\Daten\Arolsen-V\Rohdaten\produkt_wind_Terminwerte_19900801_20141231_00197.txt
+output_srj        S:\User\Ra\Programme\Daten\Arolsen-V\Ergebnisse\output_arolsen_srj_c.txt
+output_jahr_srj   S:\User\Ra\Programme\Daten\Arolsen-V\Ergebnisse\output_jahr_arolsen_srj_c.txt
