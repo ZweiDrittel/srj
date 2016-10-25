@@ -81,7 +81,8 @@ void print_latex_source(string &output_path, string stat_id, string station,
     file_out << "\\ohead{\n";
     file_out << "   \\includegraphics[width=6cm]{S:/User/Ra/DiesDas/Unterlagen/Logo/Logo.jpg}\\\\\n";
     file_out << "   \\today\n";
-    file_out << "}\n\n";
+    file_out << "}\n";
+    file_out << "\\ofoot{\\footnotesize{Erstellt von M.Sc. Met. V. Rautmann}}\n\n";
     file_out << "\\section*{Bestimmung des repräsentativen Jahres}\n";
     file_out << "Für eine ausgewählte Messstation wird auf Basis einer "\
 				"mehrjährigen Stunden-Zeitreihe ein repräsentatives Jahr"\
@@ -143,7 +144,8 @@ void print_latex_source(string &output_path, string stat_id, string station,
 	file_out << "\\renewcommand{\\headheight}{2cm}\n";
 	file_out << "\\ohead{\n";
 	file_out << "   \\includegraphics[width=6cm]{S:/User/Ra/DiesDas/Unterlagen/Logo/Logo.jpg}\n";
-	file_out << "   }\n\n";
+	file_out << "   }\n";
+	file_out << "\\ofoot{\\footnotesize{Erstellt von M.Sc. Met. V. Rautmann}}\n\n";
 	file_out << "\\begin{table}[!htb]\n";
 	file_out << "   \\renewcommand{\\arraystretch}{1.4}\n";
 	file_out << "   \\centering\n";

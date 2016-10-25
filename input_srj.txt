@@ -1,9 +1,9 @@
-Station:       	13693 Guetersloh
-Koordinaten:   	51.9258 8.3111
-Stationshöhe:	70
-Messhöhe:	10.0
+Station:       	03126 Magdeburg
+Koordinaten:   	52.1029 11.5827
+Stationshöhe:	76
+Messhöhe:	15.0
 LaTEX-Ausgabe?	ja
-Begin: 		01 01 2009
+Begin: 		01 01 2006
 Ende:		31 12 2015
-Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Gütersloh\Rohdaten\produkt_wind_Terminwerte_20080611_20151231_13693.txt
-Output-Pfad:	S:\Datenban\Wetter\SRJ\Gütersloh\
+Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Magdeburg\produkt_wind_Terminwerte_19570801_20151231_03126.txt
+Output-Pfad:	S:\Datenban\Wetter\SRJ\Magdeburg\
