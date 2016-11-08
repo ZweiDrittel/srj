@@ -1,9 +1,9 @@
-Station:       	03126 Magdeburg
-Koordinaten:   	52.1029 11.5827
-Stationshöhe:	76
-Messhöhe:	15.0
+Station:       	03484 NeuburgDonau
+Koordinaten:   	48.7097 11.2096
+Stationshöhe:	380
+Messhöhe:	10.0
 LaTEX-Ausgabe?	ja
 Begin: 		01 01 2006
 Ende:		31 12 2015
-Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Magdeburg\produkt_wind_Terminwerte_19570801_20151231_03126.txt
-Output-Pfad:	S:\Datenban\Wetter\SRJ\Magdeburg\
+Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Neuburg-ad-Donau\produkt_wind_Terminwerte_19730101_20151231_03484.txt
+Output-Pfad:	S:\Datenban\Wetter\SRJ\Neuburg-ad-Donau\

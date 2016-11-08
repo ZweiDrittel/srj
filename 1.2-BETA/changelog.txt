@@ -14,6 +14,8 @@ Veränderung zu Version 1.1
 
 -- Latex-Ausgabe muss noch angepasst werden
 
+-- Header erstellen, für Konsole
+
 ------------------------------------------------
 
 
