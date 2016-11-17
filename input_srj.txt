@@ -1,9 +1,9 @@
-Station:       	03484 NeuburgDonau
-Koordinaten:   	48.7097 11.2096
-Stationshöhe:	380
+Station:       	03028 BadLippspringe
+Koordinaten:   	51.7855 8.8388
+Stationshöhe:	157
 Messhöhe:	10.0
 LaTEX-Ausgabe?	ja
 Begin: 		01 01 2006
 Ende:		31 12 2015
-Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Neuburg-ad-Donau\produkt_wind_Terminwerte_19730101_20151231_03484.txt
-Output-Pfad:	S:\Datenban\Wetter\SRJ\Neuburg-ad-Donau\
+Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\BadLippspringe\produkt_wind_Terminwerte_19710401_20151231_03028.txt
+Output-Pfad:	S:\Datenban\Wetter\SRJ\BadLippspringe\
