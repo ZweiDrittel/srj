@@ -16,6 +16,10 @@ Veränderung zu Version 1.1
 
 -- Header erstellen, für Konsole
 
+-- Text "ü NN" zu "üNN" in Latex Ausgabe
+
+-- Grafische Oberfläche (erst in v 2.0)
+
 ------------------------------------------------
 
 

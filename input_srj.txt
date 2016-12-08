@@ -1,9 +1,9 @@
-Station:       	03028 BadLippspringe
-Koordinaten:   	51.7855 8.8388
-Stationshöhe:	157
-Messhöhe:	10.0
+Station:       	01605 Genthin
+Koordinaten:   	52.3875 12.1601
+Stationshöhe:	35
+Messhöhe:	12.0
 LaTEX-Ausgabe?	ja
 Begin: 		01 01 2006
 Ende:		31 12 2015
-Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\BadLippspringe\produkt_wind_Terminwerte_19710401_20151231_03028.txt
-Output-Pfad:	S:\Datenban\Wetter\SRJ\BadLippspringe\
+Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Genthin\produkt_wind_Terminwerte_19820101_20151231_01605.txt
+Output-Pfad:	S:\Datenban\Wetter\SRJ\Genthin\
