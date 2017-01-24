@@ -1,9 +1,9 @@
-Station:       	01605 Genthin
-Koordinaten:   	52.3875 12.1601
-Stationshöhe:	35
-Messhöhe:	12.0
+Station:       	00342 Belm
+Koordinaten:   	52.3170 8.1693
+Stationshöhe:	103
+Messhöhe:	10.0
 LaTEX-Ausgabe?	ja
-Begin: 		01 01 2006
+Begin: 		01 01 2011
 Ende:		31 12 2015
-Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Genthin\produkt_wind_Terminwerte_19820101_20151231_01605.txt
-Output-Pfad:	S:\Datenban\Wetter\SRJ\Genthin\
+Wind-Datei:	S:\Datenban\Wetter\Messdaten\DWD\Belm\produkt_wind_Terminwerte_20101201_20151231_00342.txt
+Output-Pfad:	S:\Datenban\Wetter\SRJ\Belm\
